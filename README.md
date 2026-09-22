@@ -1,37 +1,78 @@
 # Liam 👋
 
-Minecraft Java Developer
+### Minecraft Java Developer
+
+I develop custom Paper plugins focused on unique gameplay systems, PvP mechanics, progression, and server events.
+
+---
 
 ## About Me
 
-- 🧱 Minecraft Username: `liam__mc`
-- ☕ Developing Paper plugins
-- 📚 Learning Java and plugin architecture
-- 🚀 Building my first public projects
+- Minecraft Username: `liam__mc`
+- Discord: `liam_bluelock`
+- Currently developing commercial Minecraft plugins
+- Focused on Paper API development
+- Learning advanced Java architecture and plugin design
 
-## Skills
-
-- Java
-- Paper API
-- Commands
-- Event Listeners
-- Configuration Files
+---
 
 ## Featured Projects
 
 ### Trinity SMP
-A class-based PvP progression plugin featuring unique combat classes, ability trees, XP progression, custom GUIs, and configurable gameplay systems.
+
+A class-based PvP progression plugin featuring three unique classes, unlockable abilities, vanilla XP progression, custom GUIs, configurable cooldowns, and WorldGuard integration.
+
+**Highlights**
+- 3 unique classes
+- 5 progression tiers
+- XP-based ability unlocking
+- Class reroll system
+- Progress tracking GUI
+- WorldGuard support
+
+---
 
 ### MaceRoyale
-A competitive FFA event plugin centered around a legendary rotating mace that constantly changes ownership through automated game events.
 
-## Socials
+A competitive FFA event plugin built around a single legendary mace that constantly rotates between players through automated game events.
 
-- Discord: https://discord.com/users/1468627685424107520
-- TikTok: https://www.tiktok.com/@liam__mcc
+**Highlights**
+- Rotating legendary weapon
+- Death-triggered rerolls
+- Fair player selection
+- Live roll animations
+- Spawn protection support
+- Administrative event controls
 
-## Current Goals
+---
 
-- Publish my plugins on GitHub and BuiltByBit
-- Become a better developer
-- Become a known developer and sell my plugins
+## Technologies
+
+### Minecraft Development
+- Paper API
+- Spigot API
+- WorldGuard API
+- GUI Systems
+- Event-Driven Architecture
+- Configuration Systems
+
+### Programming
+- Java
+- Maven
+- Git & GitHub
+
+---
+
+## Contact
+
+### Discord
+https://discord.com/users/1468627685424107520
+
+### TikTok
+https://www.tiktok.com/@liam__mcc
+
+---
+
+## Project Availability
+
+The projects featured on this profile are commercial products. Source code is not publicly available.
