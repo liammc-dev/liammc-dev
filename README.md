@@ -1,16 +1,29 @@
-## Hi there 👋
+# Liam 👋
 
-<!--
-**liammc-dev/liammc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minecraft Java Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧱 Minecraft Username: `liam__mc`
+- ☕ Developing Paper plugins
+- 📚 Learning Java and plugin architecture
+- 🚀 Building my first public projects
+
+## Skills
+
+- Java
+- Paper API
+- Commands
+- Event Listeners
+- Configuration Files
+
+## Socials
+
+- Discord: https://discord.com/users/1468627685424107520
+- TikTok: https://www.tiktok.com/@liam__mcc
+
+## Current Goals
+
+- Publish my plugins on GitHub and BuiltByBit
+- Become a better developer
+- Become a known developer and sell my plugins
